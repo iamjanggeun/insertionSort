@@ -9,6 +9,8 @@ using namespace std;
 int main()
 {
     int n;
+    
+    cout << "20203496 이장근"
     cout << "Enter the number of integers to sort: ";
     cin >> n;
 
